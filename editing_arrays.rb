@@ -5,9 +5,9 @@ RAINBOW_COLORS = [
 ]
 
 def change_rainbow_colors
-  rainbow_colors[0]="red"
-  rainbow_colors[1]="light_red"
-  rainbow_colors[2]="light_yellow"
+  RAINBOW_COLORS[0]="red"
+  RAINBOW_COLORS[1]="light_red"
+  RAINBOW_COLORS[2]="light_yellow"
   
 end
 change_rainbow_colors
